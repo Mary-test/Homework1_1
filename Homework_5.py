@@ -8,7 +8,7 @@ class Student:
         self.faculty = factulty
         self.course = course
         self.admissionnumber = admissionnumber
-        self.gotmarks = gotmarks
+        self.gotmarks = marks
 
 
 def selected_subscribtion(self):
